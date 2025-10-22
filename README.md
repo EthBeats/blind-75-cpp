@@ -17,12 +17,12 @@ Ethan T Miller
 
 ### Arrays & Hashing
 |                           Leetcode Link                            | Problem Name                 | Progress |
-| :----------------------------------------------------------------: | :--------------------------- | :------: |
-|      [217](https://leetcode.com/problems/contains-duplicate/)      | Contains Duplicate           |   [✅]    |
-|        [242](https://leetcode.com/problems/valid-anagram/)         | Valid Anagram                |   [ ]    |
-|            [1](https://leetcode.com/problems/two-sum/)             | Two Sum                      |   [ ]    |
-|        [49](https://leetcode.com/problems/group-anagrams/)         | Group Anagrams               |   [ ]    |
-|   [347](https://leetcode.com/problems/top-k-frequent-elements/)    | Top K Frequent Elements      |   [ ]    |
-|                             *premium*                              | Encode and Decode Strings    |   [ ]    |
-| [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self |   [ ]    |
-| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence |   [ ]    |
+| :----------------------------------------------------------------: | :--------------------------- | :-----: |
+|      [217](https://leetcode.com/problems/contains-duplicate/)      | Contains Duplicate           |   [✅]   |
+|        [242](https://leetcode.com/problems/valid-anagram/)         | Valid Anagram                |   [✅]   |
+|            [1](https://leetcode.com/problems/two-sum/)             | Two Sum                      |   [ ]   |
+|        [49](https://leetcode.com/problems/group-anagrams/)         | Group Anagrams               |   [ ]   |
+|   [347](https://leetcode.com/problems/top-k-frequent-elements/)    | Top K Frequent Elements      |   [ ]   |
+|                             *premium*                              | Encode and Decode Strings    |   [ ]   |
+| [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self |   [ ]   |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence |   [ ]   |
