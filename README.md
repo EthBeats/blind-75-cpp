@@ -21,7 +21,7 @@ Ethan T Miller
 |      [217](https://leetcode.com/problems/contains-duplicate/)      | Contains Duplicate           | 2025-10-20 [✅] |
 |        [242](https://leetcode.com/problems/valid-anagram/)         | Valid Anagram                | 2025-10-21 [✅] |
 |            [1](https://leetcode.com/problems/two-sum/)             | Two Sum                      | 2025-10-22 [✅] |
-|        [49](https://leetcode.com/problems/group-anagrams/)         | Group Anagrams               | 2025-10-23 [ ] |
+|        [49](https://leetcode.com/problems/group-anagrams/)         | Group Anagrams               | 2025-10-23 [✅] |
 |   [347](https://leetcode.com/problems/top-k-frequent-elements/)    | Top K Frequent Elements      | 2025-10-24 [ ] |
 |                             *premium*                              | Encode and Decode Strings    | 2025-10-25 [ ] |
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | 2025-10-26 [ ] |
