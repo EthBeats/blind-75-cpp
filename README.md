@@ -24,5 +24,5 @@ Ethan T Miller
 |        [49](https://leetcode.com/problems/group-anagrams/)         | Group Anagrams               | 2025-10-23 [✅] |
 |   [347](https://leetcode.com/problems/top-k-frequent-elements/)    | Top K Frequent Elements      | 2025-10-24 [✅] |
 |                             *premium*                              | Encode and Decode Strings    | 2025-10-25 [✅] |
-| [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | 2025-10-26 [ ] |
+| [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | 2025-10-26 [✅] |
 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | 2025-10-27 [ ] |
