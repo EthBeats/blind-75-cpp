@@ -25,4 +25,4 @@ Ethan T Miller
 |   [347](https://leetcode.com/problems/top-k-frequent-elements/)    | Top K Frequent Elements      | 2025-10-24 [✅] |
 |                             *premium*                              | Encode and Decode Strings    | 2025-10-27 [✅] |
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | 2025-10-28 [✅] |
-| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | 2025-10-29 [ ] |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | 2025-10-29 [✅] |
