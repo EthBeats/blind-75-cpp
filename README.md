@@ -9,7 +9,7 @@ Ethan T Miller
 ## My Goal
 | **Goal**                 | **Deadline** |
 |:-------------------------|:----------:|
-| Complete all 75 problems | 2026-01-02 |
+| Complete all 75 problems | 2026-02-06 |
 
 *1 problem/day*
 
@@ -23,6 +23,6 @@ Ethan T Miller
 |            [1](https://leetcode.com/problems/two-sum/)             | Two Sum                      | 2025-10-22 [✅] |
 |        [49](https://leetcode.com/problems/group-anagrams/)         | Group Anagrams               | 2025-10-23 [✅] |
 |   [347](https://leetcode.com/problems/top-k-frequent-elements/)    | Top K Frequent Elements      | 2025-10-24 [✅] |
-|                             *premium*                              | Encode and Decode Strings    | 2025-10-25 [✅] |
-| [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | 2025-10-26 [✅] |
-| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | 2025-10-27 [ ] |
+|                             *premium*                              | Encode and Decode Strings    | 2025-10-27 [✅] |
+| [238](https://leetcode.com/problems/product-of-array-except-self/) | Product of Array Except Self | 2025-10-28 [✅] |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | Longest Consecutive Sequence | 2025-10-29 [ ] |
