@@ -30,7 +30,7 @@ Ethan T Miller
 ### Two Pointers
 |                         Leetcode Link                          | Problem Name              | Difficulty |    Progress    |
 | :------------------------------------------------------------: | :------------------------ | :--------: | :------------: |
-|     [125](https://leetcode.com/problems/valid-palindrome/)     | Valid Palindrome          |  Easy 🟢   | 2025-10-30 [ ] |
+|     [125](https://leetcode.com/problems/valid-palindrome/)     | Valid Palindrome          |  Easy 🟢   | 2025-10-30 [✅] |
 |           [15](https://leetcode.com/problems/3sum/)            | 3Sum                      | Medium 🟡  | 2025-10-31 [ ] |
 | [11](https://leetcode.com/problems/container-with-most-water/) | Container With Most Water | Medium 🟡  | 2025-11-03 [ ] |
 
