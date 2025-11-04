@@ -37,32 +37,32 @@ Ethan T Miller
 ### Sliding Window
 |                                   Leetcode Link                                    | Problem Name                                   | Difficulty |    Progress    |
 | :--------------------------------------------------------------------------------: | :--------------------------------------------- | :--------: | :------------: |
-|       [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        | Best Time to Buy and Sell Stock                |  Easy 🟢   | 2025-11-04 [ ] |
-| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium 🟡  | 2025-11-05 [ ] |
-|   [424](https://leetcode.com/problems/longest-repeating-character-replacement/)    | Longest Repeating Character Replacement        | Medium 🟡  | 2025-11-06 [ ] |
-|           [76](https://leetcode.com/problems/minimum-window-substring/)            | Minimum Window Substring                       |  Hard 🔴   | 2025-11-07 [ ] |
+|       [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        | Best Time to Buy and Sell Stock                |  Easy 🟢   | 2025-11-05 [ ] |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium 🟡  | 2025-11-06 [ ] |
+|   [424](https://leetcode.com/problems/longest-repeating-character-replacement/)    | Longest Repeating Character Replacement        | Medium 🟡  | 2025-11-07 [ ] |
+|           [76](https://leetcode.com/problems/minimum-window-substring/)            | Minimum Window Substring                       |  Hard 🔴   | 2025-11-10 [ ] |
 
 ### Stack
 |                     Leetcode Link                      | Problem Name      | Difficulty |    Progress    |
 | :----------------------------------------------------: | :---------------- | :--------: | :------------: |
-| [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses |  Easy 🟢   | 2025-11-10 [ ] |
+| [20](https://leetcode.com/problems/valid-parentheses/) | Valid Parentheses |  Easy 🟢   | 2025-11-11 [ ] |
 
 ### Binary Search
 |                               Leetcode Link                                | Problem Name                         | Difficulty |    Progress    |
 | :------------------------------------------------------------------------: | :----------------------------------- | :--------: | :------------: |
-| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Medium 🟡  | 2025-11-11 [ ] |
-|    [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | Search in Rotated Sorted Array       | Medium 🟡  | 2025-11-12 [ ] |
+| [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | Medium 🟡  | 2025-11-12 [ ] |
+|    [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | Search in Rotated Sorted Array       | Medium 🟡  | 2025-11-13 [ ] |
 
 ### Linked List
 |                             Leetcode Link                             | Problem Name                     | Difficulty |    Progress    |
 | :-------------------------------------------------------------------: | :------------------------------- | :--------: | :------------: |
-|       [206](https://leetcode.com/problems/reverse-linked-list/)       | Reverse Linked List              |  Easy 🟢   | 2025-11-13 [ ] |
-|      [21](https://leetcode.com/problems/merge-two-sorted-lists/)      | Merge Two Sorted Lists           |  Easy 🟢   | 2025-11-14 [ ] |
-|        [141](https://leetcode.com/problems/linked-list-cycle/)        | Linked List Cycle                |  Easy 🟢   | 2025-11-17 [ ] |
-|          [143](https://leetcode.com/problems/reorder-list/)           | Reorder List                     | Medium 🟡  | 2025-11-18 [ ] |
-| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | Medium 🟡  | 2025-11-19 [ ] |
-|       [23](https://leetcode.com/problems/merge-k-sorted-lists/)       | Merge K Sorted Lists             |  Hard 🔴   | 2025-11-20 [ ] |
+|       [206](https://leetcode.com/problems/reverse-linked-list/)       | Reverse Linked List              |  Easy 🟢   | 2025-11-14 [ ] |
+|      [21](https://leetcode.com/problems/merge-two-sorted-lists/)      | Merge Two Sorted Lists           |  Easy 🟢   | 2025-11-17 [ ] |
+|        [141](https://leetcode.com/problems/linked-list-cycle/)        | Linked List Cycle                |  Easy 🟢   | 2025-11-18 [ ] |
+|          [143](https://leetcode.com/problems/reorder-list/)           | Reorder List                     | Medium 🟡  | 2025-11-19 [ ] |
+| [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | Medium 🟡  | 2025-11-20 [ ] |
+|       [23](https://leetcode.com/problems/merge-k-sorted-lists/)       | Merge K Sorted Lists             |  Hard 🔴   | 2025-11-21 [ ] |
 ### Trees
 |                      Leetcode Link                       | Problem Name       | Difficulty |    Progress    |
 | :------------------------------------------------------: | :----------------- | :--------: | :------------: |
-| [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree |  Easy 🟢   | 2025-11-21 [ ] |
+| [226](https://leetcode.com/problems/invert-binary-tree/) | Invert Binary Tree |  Easy 🟢   | 2025-11-24 [ ] |
