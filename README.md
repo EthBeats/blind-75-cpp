@@ -37,7 +37,7 @@ Ethan T Miller
 ### Sliding Window
 |                                   Leetcode Link                                    | Problem Name                                   | Difficulty |    Progress    |
 | :--------------------------------------------------------------------------------: | :--------------------------------------------- | :--------: | :------------: |
-|       [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        | Best Time to Buy and Sell Stock                |  Easy 🟢   | 2025-11-05 [ ] |
+|       [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        | Best Time to Buy and Sell Stock                |  Easy 🟢   | 2025-11-05 [✅] |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | Medium 🟡  | 2025-11-06 [ ] |
 |   [424](https://leetcode.com/problems/longest-repeating-character-replacement/)    | Longest Repeating Character Replacement        | Medium 🟡  | 2025-11-07 [ ] |
 |           [76](https://leetcode.com/problems/minimum-window-substring/)            | Minimum Window Substring                       |  Hard 🔴   | 2025-11-10 [ ] |
